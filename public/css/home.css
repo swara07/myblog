@@ -1,0 +1,8 @@
+.jumbotron{
+     background: url("https://image.freepik.com/free-photo/flat-lay-desk-concept-with-copy-space_23-2148459790.jpg") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    min-height: 600px
+}
